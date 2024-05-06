@@ -1,0 +1,142 @@
+*{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+
+header {
+    background-color: #F6F5F2;
+    height: 80px;
+    text-align: center;
+    padding: 20px;
+    font-size: 20px;
+}
+
+nav {
+    text-align: center;
+    height: 60px;
+    margin: auto;
+    padding: 5px;
+    letter-spacing: 0.2px;
+    background-color: #DFD0B8;
+
+}
+li {
+    display: inline;
+    list-style-type: none;
+    font-weight: 500;
+    padding: 10%;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+.aeroplanet {
+    background-color: #F1EEDC;
+    width: 100%;
+    height: 100%;
+    border-collapse: separate;
+    border-spacing: 35px;
+}
+
+
+.aeroplanet1{
+    background-color: #DED0B6; 
+    width: 20%;
+    height: 20%;
+
+}
+
+/* .forma{
+    margin: 0 auto;
+} */
+
+/* .Kontakti{
+    width: 100%;
+    border-radius: 10px;
+} */
+
+.kontakti1 {
+    background-color: #F1EEDC;
+    width: 100%;
+    height: 100%;
+    border-collapse: separate;
+    border-spacing: 15px;
+    border-radius: 10px;
+    margin: 0 auto;
+}
+
+input {
+    width: 100%;
+    height: 50px;
+
+}
+  
+  textarea {
+    width: 100%;
+    height: 250px;
+
+}
+input,
+textarea {
+    border-radius: 5px;
+    background-color: #EEEDEB;
+
+}
+
+/* .footeri {
+    border-spacing: 20px;
+    border-collapse: separate;
+    margin: 0 auto;
+    text-align: center;
+    word-spacing: 80px;
+} */
+
+
+#DergoBtn {
+    color: black;
+    width: 100%;
+    height: 35px;
+    border-radius: 10px;
+  }
+
+  #DergoBtn:hover {
+    background-color: green;
+    color: black;
+  }
+
+.Referencat {
+    background-color: #F1EEDC;
+    width: 100%;
+    height: 80%;
+    border-collapse: separate;
+    border-spacing: 35px;
+    font-size: 20px;
+    text-align: center;
+    word-spacing: 85px;
+}
+
+.referencat {
+    height: 100%;
+    background-color: #F1EEDC;
+    padding: 5px;
+}
+
+#paragraph {
+    text-align: center;
+}
+/* .container {
+	width: 95%;
+	margin: 0 auto;
+}
+
+	.airbus340 {
+		background-color: #eeeeee;
+}
+		
+	.boeing777 {
+		background-color: #eeeeee;
+} */
+
